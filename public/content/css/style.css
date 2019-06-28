@@ -1,0 +1,156 @@
+.main_content{
+	background-color: #e6e6e6;
+	padding: 10px;
+	min-height: 500px;
+}
+
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #CC3333;
+}
+
+.navbar{
+	background-color: #3b5998;
+	padding: 0px;
+}
+
+.right_nav_menu{
+	margin-right: -100px;
+	margin-left: 5px;
+}
+
+p{
+	font-weight: bold;
+	margin: 0px;
+	font-variant:30px;
+}
+hr{
+	opacity: 20px;
+	vertical-align: top;
+}
+
+.btn-green{
+	padding: 5px;
+	color: #fff;
+	border-radius: 8px;
+	border: none;
+	background-image: linear-gradient(to right, #0e9320 40%, #24FE41 100%, #14cc2c 20%);
+	font-weight: bold;
+}
+
+.error_message{
+	color: red;
+}
+
+#login-form input{
+	height: 25px;
+	width: 180px;
+	padding: 5px;
+	border-radius: 2px;
+	font-size: 15px;
+	background: #fff;
+	border: 1px solid #1a50c9;
+}
+
+input{
+	height: 28px;
+	width: 220px;
+	padding: 5px;
+	font-size: 15px;
+	background: #fff;
+	border: 1px solid #b8b8b8;
+	border-radius: 5px;
+}
+
+#order_form input{
+	width: 50px;
+}
+
+.order_table a{
+	color: red;
+}
+
+
+.order_table .file_name{
+	word-wrap: break-word;
+	max-width: 150px;
+}
+
+#order_form select{
+	width: 70px;
+}
+
+#order_form label{
+	font-size: 15px;
+	color: #000;
+}
+
+#order_form  input:disabled{
+	background: #ffff96;
+}
+
+#order_form input[type="file"]{
+	background: none;
+	border: none;
+	height: 100%;
+}
+
+#order_form .col-md-4{
+	padding:0px 10px 0px 15px ;
+}
+
+#form_section{
+	margin-top: 2px;
+	border: 1px solid #adadad;
+}
+
+
+select{
+	height: 28px;
+	width: 220px;
+	padding: 5px;
+	font-size: 15px;
+	background: #fff;
+	border: 1px solid #b8b8b8;
+	border-radius: 5px;
+}
+label{
+	font-size: 15px;
+	margin-bottom: 0px;
+}
+
+.btn-login{
+	background-color: #295dce;
+	height: 25px;
+	color: #fff;
+	border: 1px solid #1a50c9;
+	border-radius: 2px;
+}
+
+label{
+	color: #000;
+	font-size: 15px;
+}
+
+.nav_right_button{
+	color: #fff;
+	margin-right: 5px;
+	font-size: 18px;
+	padding: 5px 15px 5px 15px;
+	border: 1px solid #ddd;
+	border-radius: 5px 5px 0px 0;
+
+	background-image:
+		linear-gradient(
+		#000, #888
+		);
+}
+
+table{
+	font-size: 14px;
+	word-break: break-all;
+}
+
+table td{
+	border: 1px solid #888;
+}

@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $.get('content/js/custom/division.js');
+    $.get('content/js/custom/district.js');
+    $.get('content/js/custom/upazila.js');
+    $.get('content/js/custom/post_office.js');
+    $.get('content/js/custom/picture.js');
+    $.get('content/js/custom/courier.js');
+    $.get('content/js/custom/courier_branch.js');
+});
